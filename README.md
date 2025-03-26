@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujjaa Janani</h1>
-<h3 align="center">A second year student in Universiti Teknologi Malaysia</h3>
+<h3 align="center">A third year student in Universiti Teknologi Malaysia</h3>
 
 - 📫 How to reach me **pujjaajanani@graduate.utm.my**
 
