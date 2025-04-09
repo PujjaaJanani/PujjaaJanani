@@ -2,6 +2,8 @@
 <h3 align="center">A third year student in Universiti Teknologi Malaysia</h3>
 
 - 📫 How to reach me **pujjaajanani@graduate.utm.my**
+                                   or
+                        **pujjaajanani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="JIRA" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-microsoft-office-27-761688.png" alt="MS Office" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/FindBugs_logo.png" alt="FindBugs" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/FindBugs-FFB300?style=for-the-badge&logo=bugatti&logoColor=black" alt="FindBugs"/>
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
 </p>
